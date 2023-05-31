@@ -3,7 +3,7 @@ services:
   - type: web
     name: Luna
     env: docker
-    region: United States of America
+    region: Singapore
     plan: free
     envVars:
       - key: BOT_TOKEN
